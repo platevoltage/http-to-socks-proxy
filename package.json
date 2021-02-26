@@ -12,7 +12,7 @@
     "url": "https://github.com/asluchevskiy/http-to-socks-proxy/issues"
   },
   "dependencies": {
-    "socks": "latest"
+    "socks": "1.1.10"
   },
   "keywords": [
     "socks",
